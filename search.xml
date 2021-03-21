@@ -21,10 +21,16 @@
   <entry>
     <title>Markdown 学习 ①</title>
     <url>/2021/03/05/test/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>正文</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1>一级标题</h1>
+<h2 id="二级标题">二级标题</h2>
+<h3 id="三级标题">三级标题</h3>
+<h4 id="四级标题">四级标题</h4>
+<h5 id="五级标题">五级标题</h5>
+<h6 id="六级标题">六级标题</h6>
+<p>正文</p>
 <p><strong>粗体</strong></p>
 <p><em>斜体</em></p>
-<p><del>删除线</del></p>
+<p><s>删除线</s></p>
 <p><em><strong>斜体加粗</strong></em></p>
 <blockquote>
 <p>引用</p>
@@ -39,7 +45,7 @@
 <p>图片</p>
 <p><img src="https://7.dusays.com/2021/03/04/d1946a815824e.png" alt="myblog"></p>
 <p>超链接</p>
-<p><a href="http://baidu.com/">百度</a></p>
+<p><a href="http://baidu.com">百度</a></p>
 <p>新页面打开</p>
 <p><a href="http://baidu.com" target="_blank">baidu</a></p>
 <p><a href="https://www.jianshu.com/u/1f5ac0cf6a8b" target="_blank">简书</a></p>
@@ -52,9 +58,12 @@
 <li>second</li>
 </ol>
 <ul>
-<li><ul>
-<li>dd<ul>
-<li>dd<ul>
+<li>
+<ul>
+<li>dd
+<ul>
+<li>dd
+<ul>
 <li>dd</li>
 </ul>
 </li>
@@ -64,8 +73,10 @@
 </li>
 </ul>
 <ol>
-<li>dd<ol>
-<li>dd<ol>
+<li>dd
+<ol>
+<li>dd
+<ol>
 <li>dd</li>
 </ol>
 </li>
@@ -74,7 +85,6 @@
 </ol>
 <p><code>d</code></p>
 <figure class="highlight lua"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>()</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
 <p>`d</p>
 ]]></content>
       <categories>
@@ -82,6 +92,18 @@
       </categories>
       <tags>
         <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Flexsim 学习 ①</title>
+    <url>/2021/03/07/flexsim/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>ddd</p>
+]]></content>
+      <categories>
+        <category>Flexsim</category>
+      </categories>
+      <tags>
+        <tag>Flexsim</tag>
       </tags>
   </entry>
 </search>
